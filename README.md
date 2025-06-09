@@ -1,2 +1,2 @@
-# contao-pinned-news
-Pin news items module
+# Bright Cloud Studio's Contao Pinned News
+Updated version of Asconsulting's 'pinned_news' for Contao 5
